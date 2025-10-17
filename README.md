@@ -1,6 +1,6 @@
 # Proyecto2-TeoriaComputacion
 
-## 📋 Descripción
+## Descripción
 
 Implementación del algoritmo CYK (Cocke-Younger-Kasami) para el análisis sintáctico de oraciones en inglés. El proyecto incluye simplificación de gramáticas libres de contexto y conversión a Forma Normal de Chomsky (CNF).
 
