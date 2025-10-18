@@ -97,4 +97,5 @@ print(f"Resultado: {'ACEPTADA' if result else 'RECHAZADA'}")
 
 # Video 
 
-Link: 
+
+Link: https://drive.google.com/drive/folders/1ZFF9bdmJZVxuoUzpCSWqUxVH_ZNej7zW?usp=sharing
